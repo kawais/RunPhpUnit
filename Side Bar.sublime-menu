@@ -1,0 +1,12 @@
+[
+  {
+    "caption": "-"
+  },
+  {
+    "command": "run_all_tests",
+    "args": {
+      "paths": []
+    },
+    "caption": "Run all tests in this directory."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "caption": "-"
+  },{
+    "caption": "Run This Tests",
+    "command": "run_this_tests"
+  }, {
+    "caption": "Show Last Test Result",
+    "command": "show_last_result"
+  }, {
+    "caption": "Cmd Here",
+    "command": "cmd_here"
+  }
+]

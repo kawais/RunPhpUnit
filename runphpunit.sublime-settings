@@ -1,0 +1,5 @@
+{
+    //example: E:\\GitHub\\ci-ent\\vendor\\bin\\phpunit.bat
+    "phpunit_path":"phpunit.bat",
+    "phpunit_args":""
+}
